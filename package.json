@@ -19,18 +19,18 @@
 		"dojo-loader": "2.0.0-beta.2",
 		"dts-generator": "1.7.0",
 		"glob": "7.0.3",
-		"grunt": "0.4.5",
-		"grunt-contrib-clean": "1.0.0",
+		"grunt": "1.0.1",
+		"grunt-contrib-clean": "git://github.com/gruntjs/grunt-contrib-clean.git#985cc7f9b7fd51cf467fe557aee2dceadf268752",
 		"grunt-contrib-copy": "1.0.0",
 		"grunt-contrib-watch": "1.0.0",
-		"grunt-release": "0.13.0",
+		"grunt-release": "git://github.com/geddski/grunt-release.git#d4555a67274ad609d4eb1816e41326e33c20d16c",
 		"grunt-text-replace": "0.4.0",
 		"grunt-ts": "5.5.0-beta.2",
-		"grunt-tslint": "3.0.3",
+		"grunt-tslint": "git://github.com/palantir/grunt-tslint.git#438b1a6bd7e48e172b429d1c41ded861ee49f741",
 		"intern": "3.1.1",
 		"istanbul": "0.4.3",
 		"remap-istanbul": "0.6.2",
-		"tslint": "3.7.4",
+		"tslint": "3.8.1",
 		"typescript": "1.8.10"
 	}
 }
